@@ -1,0 +1,23 @@
+/*box1*/
+.box1{
+    /*背景色*/
+    background: red;
+    /*幅 w+幅値+tab*/
+    width: 100px;;
+    /*高さ*/
+    height: 100px;
+}
+.box2{
+    background:blue;
+    width: 100px;
+    height: 100px;
+}
+.box3{
+    background: yellow;
+    width: 100px;
+    height: 100px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
